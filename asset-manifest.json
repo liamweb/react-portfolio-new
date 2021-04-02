@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-new/static/css/main.330f4bf4.chunk.css",
+    "main.js": "/react-portfolio-new/static/js/main.7a5a526c.chunk.js",
+    "main.js.map": "/react-portfolio-new/static/js/main.7a5a526c.chunk.js.map",
+    "runtime-main.js": "/react-portfolio-new/static/js/runtime-main.645f09cd.js",
+    "runtime-main.js.map": "/react-portfolio-new/static/js/runtime-main.645f09cd.js.map",
+    "static/js/2.92b98dea.chunk.js": "/react-portfolio-new/static/js/2.92b98dea.chunk.js",
+    "static/js/2.92b98dea.chunk.js.map": "/react-portfolio-new/static/js/2.92b98dea.chunk.js.map",
+    "index.html": "/react-portfolio-new/index.html",
+    "static/css/main.330f4bf4.chunk.css.map": "/react-portfolio-new/static/css/main.330f4bf4.chunk.css.map",
+    "static/js/2.92b98dea.chunk.js.LICENSE.txt": "/react-portfolio-new/static/js/2.92b98dea.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-portfolio-new/static/media/img-8.835c8122.jpg",
+    "static/media/liam1.b249abe9.jpg": "/react-portfolio-new/static/media/liam1.b249abe9.jpg",
+    "static/media/meditationApp.03c22f8e.png": "/react-portfolio-new/static/media/meditationApp.03c22f8e.png",
+    "static/media/myTunes.4ba15a46.png": "/react-portfolio-new/static/media/myTunes.4ba15a46.png",
+    "static/media/patatap.20404afa.png": "/react-portfolio-new/static/media/patatap.20404afa.png",
+    "static/media/portfolio1.432843e6.png": "/react-portfolio-new/static/media/portfolio1.432843e6.png",
+    "static/media/portfolio2.855db333.png": "/react-portfolio-new/static/media/portfolio2.855db333.png",
+    "static/media/video-1.0459d6c0.mp4": "/react-portfolio-new/static/media/video-1.0459d6c0.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.645f09cd.js",
+    "static/js/2.92b98dea.chunk.js",
+    "static/css/main.330f4bf4.chunk.css",
+    "static/js/main.7a5a526c.chunk.js"
+  ]
+}
